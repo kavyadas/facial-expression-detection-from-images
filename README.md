@@ -14,6 +14,7 @@ To detect facial expression from images
 
 #testing:
  >>> python /home/hbg32/tf_files/label_image.py /home/hbg32/tf_files/testing_data/10.jpeg
+ 
  >>> python /home/hbg32/tf_files/label_image.py /home/hbg32/images/a.jpg
 
 #webpage:
